@@ -1,8 +1,8 @@
 {
-  "name": "SHABAN-MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
-  "logo": "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
-  "keywords": ["SHABAN-MD"],
+  "name": "E3-AHMII-MD",
+  "description": "Javascript WhatsApp bot made by E3-AHMII-MD",
+  "logo": "https://ibb.co/mCR978BC",
+  "keywords": ["E3-AHMII-MD"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -27,7 +27,7 @@
     "MENU_IMAGE_URL": {
       "description": "Add Your Imgae Url Bot Menu",
       "required": true,
-      "value": "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg"
+      "value": "https://ibb.co/mCR978BC"
     }, 
       
     "PREFIX": {
