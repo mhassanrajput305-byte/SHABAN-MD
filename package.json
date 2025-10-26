@@ -1,12 +1,12 @@
 {
-  "name": "SHABAN-MD",
+  "name": "E3-AHMII-MD",
   "version": "5.0.0",
-  "description": "Created By Mr Shaban",
+  "description": "Created By E3-AHMII-MD",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name E3-AHMII-MD",
     "stop": "pm2 stop SHABAN-MD",
-    "restart": "pm2 restart SHABAN-MD"
+    "restart": "pm2 restart E3-AHMII-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.19",
